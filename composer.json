@@ -3,7 +3,7 @@
     "description": "Symfony 2+ bundle for wrapping a Zend Framework 1 legacy application",
     "license": "MIT",
     "type": "symfony-bundle",
-    "minimum-stability": "alpha",
+    "minimum-stability": "beta",
     "require": {
         "php": ">=5.3.3"
     },
