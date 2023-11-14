@@ -1,14 +1,8 @@
 {
-    "name": "skrepr/zf1wrapperbundle",
-    "description": "Symfony 2 bundle for wrapping a Zend Framework 1 legacy application",
+    "name": "kminkov/zf1wrapperbundle",
+    "description": "Symfony 2+ bundle for wrapping a Zend Framework 1 legacy application",
     "license": "MIT",
     "type": "symfony-bundle",
-    "authors": [
-        {
-            "name": "othillo",
-            "email": "othillo@othillo.nl"
-        }
-    ],
     "minimum-stability": "alpha",
     "require": {
         "php": ">=5.3.3"
